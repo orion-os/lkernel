@@ -1,4 +1,4 @@
-Linux kernel
+Orion fork of the linux kernel, minimal changes are made.
 ============
 
 There are several guides for kernel developers and users. These guides can
